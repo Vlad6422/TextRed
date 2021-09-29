@@ -1,0 +1,11 @@
+C:\Users\Vlad\source\repos\TextRedFin\TextRedFin\obj\Debug\TextRedFin.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\TextRedFin\TextRedFin\obj\Debug\TextRedFin.Form1.resources
+C:\Users\Vlad\source\repos\TextRedFin\TextRedFin\obj\Debug\TextRedFin.Properties.Resources.resources
+C:\Users\Vlad\source\repos\TextRedFin\TextRedFin\obj\Debug\TextRedFin.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\TextRedFin\TextRedFin\obj\Debug\TextRedFin.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\TextRedFin\TextRedFin\bin\Debug\TextRedFin.exe.config
+C:\Users\Vlad\source\repos\TextRedFin\TextRedFin\bin\Debug\TextRedFin.exe
+C:\Users\Vlad\source\repos\TextRedFin\TextRedFin\bin\Debug\TextRedFin.pdb
+C:\Users\Vlad\source\repos\TextRedFin\TextRedFin\obj\Debug\TextRedFin.exe
+C:\Users\Vlad\source\repos\TextRedFin\TextRedFin\obj\Debug\TextRedFin.pdb
+C:\Users\Vlad\source\repos\TextRedFin\TextRedFin\obj\Debug\TextRedFin.Form2.resources
